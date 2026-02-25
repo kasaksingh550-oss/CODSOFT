@@ -1,0 +1,42 @@
+# =====================
+# Operating System files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Java / Eclipse / IntelliJ / VS Code
+# =====================
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+/.idea/
+/*.iml
+/.vscode/
+/*.log
+
+# Build directories
+/bin/
+/build/
+/out/
+
+# Maven / Gradle
+/target/
+/.gradle/
+/build/
+
+# =====================
+# OS generated files
+# =====================
+*.swp
+*.swo
+
+# =====================
+# Others
+# =====================
+*.log
+*.tmp
+*.temp
